@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
     s.name         = 'CountdownTimer'
     s.version      = '1.0.0'
     s.summary      = 'a component of photo browser on iOS'
-    s.homepage     = 'https://github.com/xiaoL0204/XLPhotoBrowser'
+    s.homepage     = 'https://github.com/SLpersonal/CountDownTimer'
     s.description  = <<-DESC
                                       It is a component for ios photo browser,written by Objective-C.
                    DESC
